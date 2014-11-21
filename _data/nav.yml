@@ -1,18 +1,25 @@
-- name: Home
+- name: Página Inicial
   path: index.html
-  section_id: home
+  section_id: pagina_inicial
+- name: Conheça
+  section_id: conheca
   children:
-    - name: Home default
-      path: index.html
-    - name: Home alternative
-      path: index-alternative.html
-- name: Services
-  path: services.html
-  section_id: services
-- name: About
-  path: about.html
-  section_id: about
-- name: Portfolio
+      - name: Departamento de Orientação ao Trabalho Social Espírita da FEP
+        path: index.html
+      - name: Trabalhos sociais realizados nas Casas Espíritas
+        path: index-alternative.html
+      - name: Direitos Sociais
+        path: index-alternative.html
+- name: Participe
+  section_id: participe
+  children:
+      - name: Como?
+        path: index.html
+      - name: Encontre o trabalho mais próximo de você
+        path: index.html
+      - name: Cadastre sua Casa Espírita
+        path: index.html
+- name: Agenda
   path: portfolio.html
   section_id: portfolio
   children:
