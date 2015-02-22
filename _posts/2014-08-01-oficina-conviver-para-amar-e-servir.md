@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Great quality means a lot to us"
-date:   2014-05-05 20:37:53 +0800
-author: Andy Budd
+title:  "Oficina Conviver para Amar e Servir"
+date:   2014-08-01 20:37:53 +0800
+author: Nicoly Kulcheski Lachovicz
 ---
 
-![computers]({{site.baseurl}}/images/blog-people.jpg)
+![computers]({{site.baseurl}}/images/segunda_oficina_todos.png)
 
 Deleniti laboriosam soluta animi non corrupti. labore est quasi omnis ducimus. facere pariatur molestiae eum vel dignissimos debitis quam et id
 

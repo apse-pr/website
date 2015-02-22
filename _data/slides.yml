@@ -1,10 +1,10 @@
-- image: segunda_oficina_todos.png
+- image: resized2_segunda_oficina_todos.png
   desc_location: left
   desc:
     <h2>Oficina Conviver para Amar e Servir</h2>
     <p></p>
     <div class='two spacing'></div>
-    <a class='button boxed'>Saiba mais</a>
+    <a href='2014/08/01/oficina-conviver-para-amar-e-servir.html' class='button boxed'>Saiba mais</a>
 - image: slide-2.jpg
   desc_location: right
   desc:

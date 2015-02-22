@@ -5315,11 +5315,11 @@ meta.foundation-mq-topbar {
     line-height: 1;
     white-space: nowrap;
     padding: 12px 20px;
-    background: #333333;
+    background: #3d5766;
   }
   .top-bar-section .dropdown li:not(.has-form) a:not(.button) {
     color: #eeeeee;
-    background: #333333;
+    background: #3d5766;
   }
   .top-bar-section .dropdown li:not(.has-form):hover > a:not(.button) {
     color: #666666;
@@ -5327,7 +5327,7 @@ meta.foundation-mq-topbar {
   }
   .top-bar-section .dropdown li label {
     white-space: nowrap;
-    background: #333333;
+    background: #3d5766;
   }
   .top-bar-section .dropdown li .dropdown {
     left: 100%;
