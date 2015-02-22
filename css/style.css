@@ -11,6 +11,10 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   color: white;
 }
 
+.small-text {
+    font-size: 12px !important;
+}
+
 h1, h2, h3, h4 {
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -65,6 +69,14 @@ h1, h2, h3, h4 {
   color: white;
 }
 
+.dark-blue-text {
+    color: #3d5766;
+}
+
+.dark-grey-text {
+    color: #363636;
+}
+
 .button {
   text-transform: uppercase;
   letter-spacing: 3px;
@@ -107,8 +119,27 @@ h1, h2, h3, h4 {
 }
 
 .bg-2 {
-  background: url(../images/bg-2.jpg) center center no-repeat;
+    position: relative;
+    overflow: hidden;
+}
+
+.bg-2:before {
+  background: url(../images/arvore_e_ceu_1600_900.jpg) center center no-repeat;
   background-size: cover;
+  opacity: 0.6;
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
 }
 
 .bg-3 {
@@ -354,7 +385,7 @@ h1, h2, h3, h4 {
 
 /*testimonials */
 p.quote {
-  border: 1px solid rgba(255, 255, 255, 0.4);
+  border: 1px solid #363636;
   padding: 20px 50px;
   font-family: "droid serif", georgia;
   font-style: italic;
@@ -409,7 +440,7 @@ textarea {
 
 /*footer */
 .footer {
-  background: #232323;
+  background: #3d5766;
   padding: 40px 0 20px;
 }
 .footer h1 {
@@ -471,14 +502,14 @@ textarea {
   display: none;
 }
 .testimonials .orbit-container .orbit-bullets li {
-  border: 1px solid white;
+  border: 1px solid #363636;
   margin-right: 15px;
   width: 16px;
   height: 16px;
   background: none;
 }
 .testimonials .orbit-container .orbit-bullets li.active {
-  background: white;
+  background: #363636;
 }
 
 /* gallery */
