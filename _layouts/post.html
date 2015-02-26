@@ -8,7 +8,23 @@ section_id: blog
 
 <div class='post'>
   <div class='timestamp left text-center'>
-    <span class='month'>{{ page.date | date: "%h" }}</span>
+    <span class='month'>
+            {% assign m = page.date | date: "%-m" %}
+            {% case m %}
+            {% when '1' %}Janeiro
+            {% when '2' %}Fevereiro
+            {% when '3' %}Mar&Ccedil;o
+            {% when '4' %}Abril
+            {% when '5' %}Maio
+            {% when '6' %}Junho
+            {% when '7' %}Julho
+            {% when '8' %}Agosto
+            {% when '9' %}Setembro
+            {% when '10' %}Outubro
+            {% when '11' %}Novembro
+            {% when '12' %}Dezembro
+            {% endcase %}
+        </span>
     <span class='date'>{{ page.date | date: "%d" }}</span>
   </div>
   <div class='info'>
