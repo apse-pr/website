@@ -4,21 +4,24 @@
     <h2>Memória das oficinas Conviver para Amar e Servir</h2>
     <p></p>
     <div class='two spacing'></div>
-    <a href='/2014/09/01/oficina-conviver-para-amar-e-servir.html' class='button boxed'>Saiba mais</a>
+  link:
+    2014/09/01/oficina-conviver-para-amar-e-servir.html
 - image: convite.jpg
   desc_location: left
   desc:
     <h2>Rodas de conversa</h2>
     <p>Convidamos para o estudo e trabalho sobre a metodologia deste livro.</p>
     <div class='two spacing'></div>
-    <a href='rodas-de-conversa.html' class='button boxed'>Saiba Mais</a>
+  link:
+    rodas-de-conversa.html
 - image: arvores_recanto.jpg
   desc_location: left
   desc:
     <h2>Arvores...Arvores...</h2>
     <p>Tantas cores, tamanhos, formas...</p>
     <div class='two spacing'></div>
-    <a href='/2014/10/01/arvores.html' class='button boxed'>Saiba Mais</a>
+  link:
+    2014/10/01/arvores.html
 #- image: slide-4.jpg
 #  desc_location: right
 #  desc:
