@@ -6,6 +6,7 @@ $(document).foundation();
 (function($) {
   $(document).ready(function() {
 
+
     $('.milestone strong').appear(function() {
       $(this).countTo(100);
     });

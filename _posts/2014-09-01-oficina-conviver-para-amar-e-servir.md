@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Memória das oficinas Conviver para Amar e Servir"
-date:   2014-08-01 20:37:53 +0800
+date:   2014-09-01 20:37:53 +0800
 ---
 
 ###Memória das Oficinas de 2014
@@ -12,6 +12,8 @@ date:   2014-08-01 20:37:53 +0800
 Mais um passo estamos dando na direção de Jesus e com certeza, a cada passo que damos, por menor que seja, nos aproximamos Dele, que tanto nos ensinou e trouxe novas compreensões. Descobertas que fazemos até hoje!
 
 Nossos primeiros passos foram dados nas oficinas em junho e agosto de 2014, na Federação Espírita do Paraná, com cerca de 120 participantes entre os quatro dias de trabalho. Falamos sobre a convivência, o fortalecimento de nossas práticas que nos tornam cada vez mais próximos e irmãos.
+
+<!--more-->
 
 Iniciamos com a visão ampliada do mundo, que mesmo em fase de transição, com tantas revoltas e intempéries tem demonstrado inúmeras surpresas e pudemos também verificar que diante de toda imensidão, somos habitantes de um pequeno mundo que gira entorno do irmão sol. Percebemos também nossa grandeza enquanto ser humano e nossa pequenez ao observar a grandiosidade do Pai. Nessas descobertas, olhamos para o outro, e o percebemos assim como nós, diante da imortalidade da alma, galgando apenas mais uma existência repleta de desafios e que cada um tem inúmeras dores, sejam físicas, materiais, emocionais, espirituais. Nosso papel será sempre o de acolher, de incentivar, de olhar para a luz interna de cada que reflete Deus. Nosso papel nesse mundo é a caridade, colocar nosso amor em ação, aprender a amar, nos conhecer para amar, conhecer o outro para amar. Nos conhecemos em contato com o outro. Evoluímos em contato com o outro. Esse contato pressupõe convivência, sendo ela então, a base de nosso trabalho. A essência de nossa caridade: convivência para conhecer, para reconhecer, para refletir, para amar, para tranformar!
 
