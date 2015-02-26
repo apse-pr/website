@@ -6,7 +6,7 @@ date:   2014-09-01 20:37:53 +0800
 
 ###Memória das Oficinas de 2014
 
-![officina]({{site.baseurl}}/images/segunda_oficina_todos.png)
+![officina]({{site.baseurl}}/images/segunda_oficina_todos.jpg)
 
 
 Mais um passo estamos dando na direção de Jesus e com certeza, a cada passo que damos, por menor que seja, nos aproximamos Dele, que tanto nos ensinou e trouxe novas compreensões. Descobertas que fazemos até hoje!
