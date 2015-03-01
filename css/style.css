@@ -755,3 +755,11 @@ ul.info i:hover {
   font-size: 0.875rem;
   color: #999999;
 }
+
+.agenda .event {
+    padding-bottom: 20px;
+}
+
+.agenda .event .title {
+    border-bottom: 1px solid #fcbf31;
+}

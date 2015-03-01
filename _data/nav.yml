@@ -4,10 +4,12 @@
 - name: Conheça
   section_id: conheca
   children:
+      - name: Trabalho Social Espírita
+        path: conheca/trabalho-social-espirita.html
       - name: Departamento de Orientação ao Trabalho Social Espírita da FEP
-        path: index.html
-      - name: Trabalhos sociais realizados nas Casas Espíritas
-        path: index-alternative.html
+        path: conheca/departamento-de-orientacao-ao-trabalho-social-espirita-da-fep.html
+#      - name: Trabalhos sociais realizados nas Casas Espíritas
+#        path: index-alternative.html
       - name: Direitos Sociais
         path: index-alternative.html
 - name: Participe
@@ -15,8 +17,8 @@
   children:
       - name: Como?
         path: index.html
-      - name: Encontre o trabalho mais próximo de você
-        path: index.html
+#      - name: Encontre o trabalho mais próximo de você
+#        path: index.html
       - name: Cadastre sua Casa Espírita
         path: index.html
       - name: Rodas de Conversa

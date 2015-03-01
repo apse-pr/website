@@ -8,6 +8,7 @@ icon: icon-chat
 
 ###*Como é que a minha vida está se entrelaçando com outras vidas?*
 
+![officina]({{site.baseurl}}/images/convite.jpg)
 
 Esta é a reflexão feita por Mario da Costa Barbosa e utilizada como introdução no livro Conviver para amar e servir, que retrata sua metodologia para o trabalho assistencial espírita. Diante de tal consideração podemos levar em conta as transformações que vemos acontecendo em nosso Planeta e nos perguntar qual o nosso papel diante desse contexto. A informação atinge uma velocidade nunca vista antes. As pessoas se comunicam a longas distâncias e como nós estamos convivendo com aqueles que estão próximos a nós?
 

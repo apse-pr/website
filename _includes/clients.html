@@ -3,7 +3,9 @@
   <div class='row'>
     {% for client in site.data.clients %}
       <div class='small-6 large-2 columns'>
-        <img src='{{site.baseurl}}/images/{{client.image}}'>
+        <a href="{{client.link}}" target="_blank">
+            <img src='{{site.baseurl}}/images/{{client.image}}'>
+        </a>
       </div>
     {% endfor %}
   </div>

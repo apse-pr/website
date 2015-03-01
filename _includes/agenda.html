@@ -1,0 +1,30 @@
+<div class="agenda">
+    {% for item in site.data.agenda %}
+    <div class="row event">
+        <div class='large-12 columns'>
+            <h3 class="title">{{ item.event }}</h3>
+            <p>
+            <!-- Go to www.addthis.com/dashboard to customize your tools -->
+            <div class="addthis_sharing_toolbox"></div>
+            </p>
+            <p>{{item.date}}</p>
+            <p>{{item.time}}</p>
+            <p>{{item.note}}</p>
+            <p>{{item.description}}</p>
+            <table>
+                <tbody>
+                    {% for entry in item.timetable %}
+                        <tr>
+                            <td>{{ entry.date }}</td>
+                            <td>{{ entry.title }}</td>
+                            <td>{{ entry.description }}</td>
+
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
