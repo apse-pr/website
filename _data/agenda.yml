@@ -1,0 +1,32 @@
+- event: "Rodas de Conversa: Estudo do Livro \"Conviver para Amar e Servir\""
+  time: "Sábados, das 9h00 às 11h30min"
+  note: "Se quiser, traga um lanche para partilhar"
+  timetable:
+      - date: 28/02/2015
+        title: "1º Encontro"
+        description: "Momento de Integração; Biografia de Mário da Costa Barbosa e as inspirações para o delineamento da Metodologia do ECCET; Apresentação do programa de estudos do livro Conviver para Amar e servir"
+      - date: 28/03/2015
+        title: "2º Encontro - Introdução e Fundamentos Doutrinários da Metodologia ECCET"
+        description: "Espiritizar, Qualificar e Humanizar: Atividades do Centro Espírita, como a Oficina do Amor; O trabalho na evolução espiritual e social; Caridade e Espiritismo: verdadeira caridade e os benefícios para aquele que a pratica"
+      - date: 25/04/2015
+        title: "3º Encontro - Histórico e as categorias da Metodologia do ECCET"
+        description: "Construção da nova sociedade: missão do homem em trabalhar pela melhoria do planeta; pela educação: vencer todas as facetas do egoísmo e trabalhar pela educação que tende a formar homens de bem"
+      - date: 23/05/2015
+        title: "4º Encontro - Histórico e as categorias da Metodologia do ECCET"
+        description: "As categorias: espaço de convivência, criatividade e educação pelo trabalho; A articulação das categorias nas atividades da Casa Espírita;"
+      - date: 25/07/2015
+        title: "5º Encontro – O Trabalho Social Espírita"
+        description: "As legislações -  Lei Orgânica de Assistência Social, Estatuto da Criança e do Adolescente, Estatuto do Idoso, Estatuto da Mulher, Lei Orgânica de Saúde, entre outros. Direitos de forma geral. Pessoas atendidas e perfil psicossocial dos usuários dos serviços."
+      - date: 22/28/2015
+        title: "6º Encontro - O Trabalho Social Espírita"
+        description: "Perfil do trabalhador; Como entender o “espaço de convivência” a partir das atividades da Casa Espírita;"
+      - date: 31/10/2015
+        title: "7º Encontro - Como fazer para implantar a Metodologia do ECCET"
+        description: "Dimensão operativa: Como fazer?  Planejamento. A atividade. Espaço físico. Tempo. Trabalhadores. Conteúdo doutrinário. Normas das oficinas/ grupos de atividades. Recursos materiais."
+      - date: 28/11/2015
+        title: "8º Encontro - Como fazer para implantar a Metodologia do ECCET"
+        description: "A articulação das categorias ECCET; Pontos de reflexão na elaboração de um programa;"
+- event: "Oficina: Trabalho Social na Casa Espírita"
+  date: 27/06/2015
+  time: "Sábado, das 8h30min às 17h30min"
+  description: "Tema e abordagens: Em construção para um ótimo aproveitamento"
