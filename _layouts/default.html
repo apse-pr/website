@@ -42,8 +42,13 @@
                     <a href="{{site.baseurl}}/{{ item.path }}">{{ item.name }}</a>
                     <ul class='dropdown'>
                       {% for child in item.children %}
+                        {% if child.outside %}
+                            {% assign baseurl = "" %}
+                        {% else %}
+                            {% assign baseurl = (site.baseurl | append:'/')%}
+                        {% endif %}
                         <li>
-                          <a href="{{site.baseurl}}/{{ child.path }}">{{ child.name }}</a>
+                          <a href="{{baseurl}}{{ child.path }}" target="{{child.target}}">{{ child.name }}</a>
                         </li>
                       {% endfor %}
                     </ul>

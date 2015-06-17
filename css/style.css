@@ -126,7 +126,7 @@ h1, h2, h3, h4 {
 .bg-2:before {
   background: url(../images/arvore_e_ceu_1600_900.jpg) center center no-repeat;
   background-size: cover;
-  opacity: 0.6;
+  opacity: 0.4;
     content: ' ';
     display: block;
     position: absolute;
