@@ -11,20 +11,22 @@
 #      - name: Trabalhos sociais realizados nas Casas Espíritas
 #        path: index-alternative.html
       - name: Direitos Sociais
-        path: index-alternative.html
+        path: conheca/direitos-sociais.html
 - name: Participe
   section_id: participe
   children:
       - name: Como?
-        path: index.html
+        path: participe/como.html
 #      - name: Encontre o trabalho mais próximo de você
 #        path: index.html
       - name: Cadastre sua Casa Espírita
-        path: index.html
+        path: https://docs.google.com/forms/d/1eVd_j3wwgBktg-xYxaQjzU9jYWIEOR5bn9u7oX-ronI/viewform
+        outside: true
+        target: _blank
       - name: Rodas de Conversa
-        path: rodas-de-conversa.html
+        path: participe/rodas-de-conversa.html
       - name: Oficinas
-        path: oficinas.html
+        path: participe/oficinas.html
 - name: Agenda
   path: agenda.html
   section_id: agenda
